@@ -1,3 +1,3 @@
-# demo
+# ML Models
 
-first demo repository.
+In this repository there are Machine Learning models I have prepared on Computer Vision, Deep Learning and NLP.
